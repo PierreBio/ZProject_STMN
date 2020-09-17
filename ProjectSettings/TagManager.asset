@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Health_Item
+  - Enemy_Small
+  - Enemy_Medium
+  - Enemy_Large
   layers:
   - Default
   - TransparentFX
